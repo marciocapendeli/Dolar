@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #323232;
+
+}
+.titulo{
+    color: #cfff00;
+    font-size: 50px;
+}
+.porquinho{
+    width:70%;
+}
+.paragrafo{
+    font-weight: bold;
+    font-size: 25px;
+}
+.real {
+    border: 3px solid #cfff00;
+    width: 140px;
+    height: 30px;
+
+}
+.dolar {
+    border: 3px solid red;
+    width: 140px;
+    height: 30px;
+}
+.rodape {
+    background-color: aqua;
+    text-align: center;
+}
+.botao {
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    
+}
